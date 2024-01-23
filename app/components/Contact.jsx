@@ -5,7 +5,7 @@ export default function Contact() {
     <div id="contact" className="sm:py-10 md:pb-20 w-full">
       <div className="z-10 w-full h-max flex relative text-violet-200  flex-col md:flex-row justify-center items-center text-sm sm:text-l md:text-xl font-bold transform transition-all duration-300 ease-in-out">
         <div className="w-full md:w-5/12 hidden md:flex justify-center items-center">
-        <p className="w-12/18 select-none pointer-events-none">I appreciate you taking the time to visit my portfolio! Let's talk about how I can add value to your team. Connect with me on LinkedIn or drop me an email &rsquo;</p>
+        <p className="w-12/18 select-none pointer-events-none">I appreciate you taking the time to visit my portfolio. Let's talk about how I can add value to your team. Connect with me on LinkedIn or drop me an email. </p>
         </div>
         <div className="w-full md:w-6/12 flex flex-col justify-center items-center">
           <p className="flex justify-center mt-20 md:mt-10 text-amber-200">CONTACT</p>

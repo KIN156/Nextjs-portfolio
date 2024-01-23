@@ -45,7 +45,7 @@ export default function HeroSection() {
     </div>
 
     <div className="w-11/12 sm:w-10/12 md:w-6/12 mt-24 md:mt-0">
-    <p className="font-bold text-3xl sm:text-5xl text-center md:text-left md:text-4xl lg:text-5xl 2xl:text-6xl mb-12 lg:mb-20">I'm a Web &amp; Software Developer from India.</p>
+    <p className="font-bold text-3xl sm:text-5xl text-center md:text-left md:text-4xl lg:text-5xl 2xl:text-6xl mb-12 lg:mb-20">I am a Web &amp; Software Developer from India.</p>
     <p className="text-sm sm:text-base md:text-xl lg:text-2xl text-center md:text-left">Currently making Web Apps having</p>
     <div className="text-zinc-500 flex flex-col text-4xl sm:text-5xl md:text-6xl 2xl:text-7xl font-semibold overflow-y-hidden overflow-x-hidden flex-shrink md:py-2 mb-10 md:mb-0 items-center md:items-start">
     <div className="x0 x1 x2 flex justify-center items-center w-max">
